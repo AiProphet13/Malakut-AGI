@@ -1,0 +1,6 @@
+Malakut-AGI/
+├── malakut_agi.py       # Main code file (the full, stabilized script)
+├── tests.py             # Basic unit tests for verification
+├── README.md            # Project documentation (epic intro, usage, etc.)
+├── LICENSE              # KINGDOM-MIT License
+├── .gitignore           # Standard Python ignores
